@@ -1,7 +1,8 @@
 # AI Product Feedback Dashboard
 
 An end-to-end AI application built to automate user feedback analysis, simulating a real-world product management triage tool.
-(dashboard-preview.png)
+
+![Dashboard Preview](dashboard-preview.png)
 
 ## Tech Stack
 * **Frontend:** React.js, Tailwind CSS
